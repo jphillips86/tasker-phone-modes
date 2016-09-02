@@ -4,7 +4,7 @@
     "media": 7,
     "dnd": "all"
   },
-  "wifiOn": null,
+  "wifiOn": true,
   "bluetoothOn": true,
   "screenRotationOn": false,
   "enter": {
