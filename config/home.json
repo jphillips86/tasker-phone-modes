@@ -5,17 +5,12 @@
     "dnd": "all"
   },
   "wifiOn": null,
-  "bluetoothOn": null,
+  "bluetoothOn": true,
   "screenRotationOn": false,
   "enter": {
     "profilesToDisable": [],
     "profilesToEnable": [],
-    "tasksToRun": [{
-      "name": "LampOnAtNight",
-      "priority": 10,
-      "param1": "",
-      "param2": ""
-    }]
+    "tasksToRun": []
   },
   "exit": {
     "profilesToDisable": [],
