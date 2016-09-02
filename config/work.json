@@ -9,11 +9,11 @@
   "screenRotationOn": false,
   "enter": {
     "profilesToDisable": [],
-    "profilesToEnable": ["Work App Hider"],
+    "profilesToEnable": [],
     "tasksToRun": []
   },
   "exit": {
-    "profilesToDisable": ["Work App Hider"],
+    "profilesToDisable": [],
     "profilesToEnable": [],
     "tasksToRun": []
   }
